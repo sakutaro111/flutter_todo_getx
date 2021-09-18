@@ -11,7 +11,7 @@
             "name": "Flutter",
             "type": "dart",
             "request": "launch",
-            "program": "bin/main.dart"
+            "program": "lib/main.dart"
         },
         {
             "name": "Dart & Flutter",
